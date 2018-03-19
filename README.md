@@ -1,12 +1,12 @@
 #Install
 
-cd <SOME_PATH>/catkin_ws/src
+> cd catkin_ws/src
 
-git clone https://github.com/ChanghaoWang/scenerecognition.git
+> git clone https://github.com/ChanghaoWang/scenerecognition.git
 
-cd ..
+> cd ..
 
-catkin_make
+> catkin_make
 
 #Project name: scene_recognition
 
