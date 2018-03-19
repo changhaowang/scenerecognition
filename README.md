@@ -18,6 +18,7 @@ Then:
 
 You can also visualize the point cloud after segmentation: The planes segmented by the algorithm are shown in rviz in different colors.
 > cd <SOME_PATH>/catkin_ws/src/scene_recognition/rviz
+
 > rviz -d segment.rviz
 
 
